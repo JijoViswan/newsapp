@@ -1,0 +1,227 @@
+{
+  "status": "ok",
+  "totalResults": 35,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Lisa Kailai Han, Pia Singh",
+      "title": "Stocks waver as worries around Trump tariffs persist: Live updates - CNBC",
+      "description": "Investors digested the latest tariff threat from President Donald Trump, while they pored through new U.S. inflation figures.",
+      "url": "https://www.cnbc.com/2025/03/12/stock-market-today-live-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107428831-1718302323462-NYSE_Traders-OB-Photo-20240613-CC-PRESS-15.jpg?v=1718630708&w=1920&h=1080",
+      "publishedAt": "2025-03-13T14:35:00Z",
+      "content": "Asia-Pacific markets fell on Thursday after a soft inflation report in the U.S. helped two of the three benchmarks on Wall Street reverse course from two days of losses.\r\nThe consumer price index a b… [+1594 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Videocardz.com"
+      },
+      "author": null,
+      "title": "NVIDIA claims to have shipped twice as many RTX 50 cards as RTX 40 since launch, but it's an unfair comparison - VideoCardz.com",
+      "description": "NVIDIA proudly claims to have shipped twice as many RTX 50 cards in five weeks than RTX 40 series, but it is misleading NVIDIA released a new slide for the GDC 2025 conference. They discuss some RTX technologies and focus on the RTX 50 series as a whole. NVID…",
+      "url": "https://videocardz.com/newz/nvidia-claims-to-have-shipped-twice-as-many-rtx-50-cards-as-rtx-40-since-launch-but-its-an-unfair-comparison",
+      "urlToImage": "https://cdn.videocardz.com/1/2025/03/RTX50-VS-RTX40-2.jpg",
+      "publishedAt": "2025-03-13T13:59:00Z",
+      "content": "NVIDIA released a new slide for the GDC 2025 conference. They discuss some RTX technologies and focus on the RTX 50 series as a whole. NVIDIA claims to have shipped twice as many RTX 50 cards as RTX … [+1968 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "David Goldman",
+      "title": "Trump threatens 200% tariff on European alcohol as trade war escalates - CNN",
+      "description": "President Donald Trump on Thursday threatened to impose a massive tariff on European alcohol in response to the European Union’s retaliation against his steel and aluminum tariffs – a tit-for-tat escalation of a trade war that could easily get out of hand.",
+      "url": "https://www.cnn.com/2025/03/13/business/alcohol-tariffs-eu-trump-trade-war/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1178871042.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2025-03-13T13:41:15Z",
+      "content": "President Donald Trump on Thursday threatened to impose a massive tariff on European alcohol in response to the European Unions retaliation against his steel and aluminum tariffs a tit-for-tat escala… [+5557 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-sports",
+        "name": "Fox Sports"
+      },
+      "author": "Carmen Vitali, Ben Arthur",
+      "title": "2025 NFL free agency winners and losers during legal tampering period - FOX Sports",
+      "description": "Which teams are crushing it in free agency? Who seems to be getting left behind? Here are the early winners and losers.",
+      "url": "https://www.foxsports.com/stories/nfl/winners-losers-nfl-free-agencys-legal-tampering-period",
+      "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2025/03/1408/814/nfl-freeagency-wandl-16x9-1.jpg?ve=1&tl=1",
+      "publishedAt": "2025-03-13T13:40:54Z",
+      "content": "Which NFL teams are crushing it in the early waves of free agency? Who seems to be getting left behind?\r\nSince the legal tampering window opened Monday morning, NFL teams have been reaching agreement… [+15268 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBCSports.com"
+      },
+      "author": "Josh Alper",
+      "title": "Report: Patriots to release David Andrews - NBC Sports",
+      "description": "Andrews won two Super Bowls during his time in New England.",
+      "url": "https://www.nbcsports.com/nfl/profootballtalk/rumor-mill/news/report-patriots-to-release-david-andrews",
+      "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/ae41510/2147483647/strip/true/crop/8192x4608+0+0/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F05%2Fbe%2F3921188a443496b518012b81003b%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2175047425",
+      "publishedAt": "2025-03-13T13:22:12Z",
+      "content": "Center David Andrews has reportedly reached the end of the line in New England. \r\nMike Reiss of ESPN.com reports that the Patriots plan to release Andrews on Thursday. Andrews entered the NFL as an u… [+712 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Space.com"
+      },
+      "author": "Mike Wall",
+      "title": "Dead Athena moon lander seen inside its crater grave from lunar orbit (photos) - Space.com",
+      "description": "NASA's Lunar Reconnaissance Orbiter spotted Athena and its final resting place.",
+      "url": "https://www.space.com/the-universe/moon/dead-athena-moon-lander-seen-inside-its-crater-grave-from-lunar-orbit-photos",
+      "urlToImage": "https://cdn.mos.cms.futurecdn.net/vrJhA4pmXe5grCKuiKEMKa-1200-80.jpg",
+      "publishedAt": "2025-03-13T13:00:00Z",
+      "content": "We now have shots of the Athena moon lander's final resting place.\r\nAthena, the second lunar lander from Houston company Intuitive Machines, tipped over during its touchdown on March 6, ending up on … [+3140 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Woman arrested in US for allegedly holding stepson captive for 20 years - BBC.com",
+      "description": "Police say the man, who set a fire to escape, was held captive by his stepmother from age 11. He weighed 68 pounds when he was freed.",
+      "url": "https://www.bbc.com/news/articles/c05m01mp999o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/bf8c/live/08891680-ffff-11ef-a097-d55f24e930f5.jpg",
+      "publishedAt": "2025-03-13T12:57:17Z",
+      "content": "A Connecticut man whose stepmother allegedly held him captive for 20 years escaped by setting fire to the small room he was held in, officials said. \r\nAuthorities responded to the fire and rescued th… [+2105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "MarketWatch"
+      },
+      "author": "Jeffry Bartash",
+      "title": "Wholesale inflation flattens out in February in another sign of easing inflation - MarketWatch",
+      "description": "Producer-price index settles down after recent runup",
+      "url": "https://www.marketwatch.com/story/wholesale-inflation-flattens-out-in-february-in-another-sign-of-easing-inflation-1599ef59",
+      "urlToImage": "https://images.mktw.net/im-59066599/social",
+      "publishedAt": "2025-03-13T12:43:00Z",
+      "content": "The numbers: Wholesale prices were unchanged in February, offering more evidence that inflation pressures eased somewhat after a recent runup.The flat reading in the producer-price index helped by lo… [+118 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Killed in front of our eyes': How the Pakistan train hijacking unfolded - BBC.com",
+      "description": "Passengers tell the BBC of the 30-hour siege and their escape.",
+      "url": "https://www.bbc.com/news/articles/cy0d5y9ew24o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/33d0/live/1ac267b0-0005-11f0-b50e-9d086302645f.jpg",
+      "publishedAt": "2025-03-13T12:40:29Z",
+      "content": "BBC Urdu\r\nGavin Butler\r\nMore than 400 people were on the train when it was attacked\r\nMehboob Hussain was riding the train home on Tuesday when the tracks under the front car exploded. \r\nIn the depths… [+8393 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNET"
+      },
+      "author": null,
+      "title": "Exclusive: T-Mobile Raising Rates Today for More Legacy Customers - CNET",
+      "description": "CNET obtained a T-Mobile memo sent to customers about a $5 per line price hike. The increase only affects some people on older plans.",
+      "url": "https://www.cnet.com/tech/mobile/exclusive-t-mobile-raising-rates-today-for-more-legacy-customers/",
+      "urlToImage": "https://www.cnet.com/a/img/resize/3fdee86ffe8e67a71cb0c405b10c1533c04eaec0/hub/2024/04/17/01dee1d9-7afb-4781-abe0-700c46618f85/tmobile-logo-9138.jpg?auto=webp&fit=crop&height=675&width=1200",
+      "publishedAt": "2025-03-13T12:40:00Z",
+      "content": "After raising rates last June for customers on some of its older plans, T-Mobile is pushing up costs again -- but it's not entirely clear how many people are affected. According to a memo obtained by… [+2384 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Block Club Chicago"
+      },
+      "author": "Mack Liederman, Charles Thrush",
+      "title": "Chicagoans Ditch Their Teslas To Protest Elon Musk: ‘Nobody Wants To Buy Them’ - Block Club Chicago",
+      "description": "Several protests have popped up outside a Chicago Tesla dealership, and one Cybertruck owner says he's flipped off regularly. Those looking to ditch the vehicles are out of luck as well — car sellers say they can't offload them.",
+      "url": "https://blockclubchicago.org/2025/03/13/chicagoans-ditch-their-teslas-to-protest-elon-musk-nobody-wants-to-buy-them/",
+      "urlToImage": "https://bcc-newspack.s3.amazonaws.com/uploads/2025/03/TeslaProtest-BlockClub-030825-14.jpg",
+      "publishedAt": "2025-03-13T12:35:00Z",
+      "content": "CHICAGO Skylar Damiano went from owning a Tesla to spitting on them. \r\nThe Humboldt Park resident would take his 2022 Tesla Model Y on roadtrips from Detroit to Dollywood but he finally had enough of… [+8176 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "'Blood moon' lunar eclipse to grace pre-dawn sky in the UK - BBC.com",
+      "description": "UK skywatchers will see a partial but still hopefully spectacular eclipse before dawn on Friday.",
+      "url": "https://www.bbc.com/news/articles/ckg8jkzlj03o",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/93ce/live/16073320-fda0-11ef-a3b9-977bedcd0ea6.jpg",
+      "publishedAt": "2025-03-13T12:28:02Z",
+      "content": "Maddie MolloyClimate and Science reporter, BBC News\r\nEarly-rising UK stargazers are in for a celestial treat on Friday as a partial lunar eclipse takes place just before dawn.\r\nEarth will cast its sh… [+3883 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "BBC News"
+      },
+      "author": null,
+      "title": "Disney holds small-scale Snow White premiere amid controversy - BBC.com",
+      "description": "The film is being released as debate continues about the way dwarfs re represented",
+      "url": "https://www.bbc.com/news/articles/cvg1n00qknro",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5b0b/live/776c7b40-0005-11f0-8c3d-b7dcc7510cb1.jpg",
+      "publishedAt": "2025-03-13T12:18:54Z",
+      "content": "Annabel Rackham and Steven McIntosh\r\nRachel Zegler performed at the film's European premiere, held in at a castle in Northern Spain\r\nDisney's live-action remake of Snow White is set to be released in… [+6128 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "9to5Mac"
+      },
+      "author": "Ben Lovejoy",
+      "title": "Apple commenter John Gruber launches blistering attack on ‘rotten’ Apple over Siri vaporware - 9to5Mac",
+      "description": "John Gruber is one of the more high-profile Apple commenters, and generally takes a pretty upbeat view of the company,...",
+      "url": "https://9to5mac.com/2025/03/13/apple-commenter-john-gruber-launches-blistering-attack-on-rotten-apple-over-siri-vaporware/",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/03/Apple-commenter-John-Gruber-launches-blistering-attack-on-rotton-Apple-over-Siri-vaporware.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "publishedAt": "2025-03-13T11:35:50Z",
+      "content": "John Gruber is one of the more high-profile Apple commenters, and generally takes a pretty upbeat view of the company, so it was a big surprise to see him launch a blistering attack on the iPhone mak… [+5273 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Variety"
+      },
+      "author": "Aramide Tinubu",
+      "title": "Netflix’s One-Take Drama ‘Adolescence’ Is a Gutting Account of Murder, Misogyny and Teen Fragility: TV Review - Variety",
+      "description": "In Netflix's \"Adolescence,\" Stephen Graham stars as devastated father whose 13-year old son has been accused of murding his female classmate.",
+      "url": "https://variety.com/2025/tv/reviews/adolescence-review-netflix-1236334549/",
+      "urlToImage": "https://variety.com/wp-content/uploads/2025/03/241122_adolesence_ep101_uhd_r709_10_24_46_04_37404.jpg?w=1000&h=563&crop=1",
+      "publishedAt": "2025-03-13T10:24:21Z",
+      "content": "Misogyny is a part of the fabric of our culture, and a patriarchal society like the one we live in depends on deep-seated and widespread contempt for women to sustain its structure. Created by Jack T… [+4886 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Kate Murphy",
+      "title": "Is the U.S. prepared for another pandemic? - Yahoo",
+      "description": "Yahoo News spoke with Dr. Ashish Jha, former White House COVID-19 response coordinator under the Biden administration, who weighs in on what the U.S. has...",
+      "url": "https://www.yahoo.com/news/is-the-us-prepared-for-another-pandemic-090041486.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/pk8vHXxkmI0903XjVwz1hA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02MzU-/https://s.yimg.com/os/creatr-uploaded-images/2025-03/324b6690-fe91-11ef-befd-b6198115e6ef",
+      "publishedAt": "2025-03-13T09:00:41Z",
+      "content": "It's been five years this week since the World Health Organization declared the COVID-19 outbreak a global pandemic. Since then, over 103 million cases have been reported in the U.S., with over 1.2 m… [+7255 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "DW (English)"
+      },
+      "author": "Dharvi Vaid",
+      "title": "Spain: Scientists uncover oldest face in Western Europe - DW (English)",
+      "description": "The facial bones of an adult nicknamed \"Pink,\" unearthed in Spain, rewrite humankind's early history in Europe.",
+      "url": "https://www.dw.com/en/spain-scientists-uncover-oldest-face-in-western-europe/a-71907278",
+      "urlToImage": "https://static.dw.com/image/71905340_6.jpg",
+      "publishedAt": "2025-03-13T07:51:14Z",
+      "content": "Scientists in Spain have excavated fossilized facial bones that may be from a previously unknown species of the human family.\r\nThe bones are roughly 1.1 million to 1.4 million years old, according to… [+1891 chars]"
+    }
+  ]
+}
